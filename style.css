@@ -428,3 +428,50 @@ text-align: center;
     letter-spacing: 0%;
     text-align: center;
 } 
+
+/* discount style start */
+.discount{
+  width: 1320px;
+height: 662.07px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+background-image: url('./images/Rectangle\ 2.png');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: bottom center;
+background-size: 1320px 220px;
+margin: 0 auto;
+border-radius: 16px 0px 16px 16px;
+
+
+
+}
+.image_one_div{
+  margin-top: 50px;
+  width: 600.82px;
+height: 500.96px;
+/* border: 2px solid black; */
+display: flex;
+align-items: end;
+justify-content: start;
+}
+
+.gift_img{
+  width: 550.82px;
+height: 450.96px;
+}
+
+.image_two_div{
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  /* border: 1px solid black; */
+}
+
+
+.discount_img{
+  width: 206.84px;
+height: 206.84px;
+}
+
